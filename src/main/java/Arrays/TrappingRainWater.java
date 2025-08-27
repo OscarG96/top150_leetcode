@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package Arrays;
 
 public class TrappingRainWater {
 

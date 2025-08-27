@@ -1,3 +1,5 @@
+package Arrays;
+
 public class JumpGameII {
     public static int jump(int[] nums) {
         int jumps = 0;

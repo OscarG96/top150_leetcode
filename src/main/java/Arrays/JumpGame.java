@@ -1,3 +1,5 @@
+package Arrays;
+
 public class JumpGame {
     public static boolean canJump(int[] nums) {
         int farthest = 0;

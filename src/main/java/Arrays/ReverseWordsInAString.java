@@ -1,5 +1,6 @@
+package Arrays;
+
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class ReverseWordsInAString {
     public static String reverseWords(String s) {

@@ -1,3 +1,5 @@
+package Arrays;
+
 public class RemoveDuplicatesFromSortedArrayII {
     public static int removeDuplicates(int[] nums) {
         int write_index = 0;
